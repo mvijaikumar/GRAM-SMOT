@@ -8,6 +8,6 @@ Author: Vijaikumar M *et al*
 
 python Main.py
 
-## To know other options
+## To know the other options
 
 python Main.py --help
