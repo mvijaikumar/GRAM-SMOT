@@ -1,6 +1,8 @@
 # GRAM-SMOT
 
-The implementation for the papaer ## GRAM-SMOT: Top-N Personalized Bundle Recommendation via Graph Attention Mechanism and Submodular Optimization ##
+The implementation for the papaer **GRAM-SMOT: Top-N Personalized Bundle Recommendation via Graph Attention Mechanism and Submodular Optimization**
+
+Author: Vijaikumar M *et al*
 
 ## Example to run the code
 
