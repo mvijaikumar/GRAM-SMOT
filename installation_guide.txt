@@ -1,0 +1,17 @@
+# installation of pytorch for cuda 10.0 from wheel
+#=================================================
+pip install https://download.pytorch.org/whl/cu100/torch-1.4.0%2Bcu100-cp37-cp37m-linux_x86_64.whl
+
+# installation of torch-vision for cuda 10.0 from wheel
+#======================================================
+pip install https://download.pytorch.org/whl/cu100/torchvision-0.5.0%2Bcu100-cp37-cp37m-linux_x86_64.whl
+
+# installation of torch_geometric
+#================================
+pip install torch-scatter==latest+cu100 torch-sparse==latest+cu100 -f https://pytorch-geometric.com/whl/torch-1.4.0.html
+pip install torch-cluster torch-spline-conv
+pip install torch-geometric
+
+# pytorch metric learning
+=========================
+pip install pytorch_metric_learning
